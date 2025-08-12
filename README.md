@@ -1,3 +1,6 @@
+# 📊 Flight-Delay-Prediction-Project
+
+
 ## 📌 Overview
 This project focuses on predicting flight delays to optimize airport operations.
 The main goal is to develop a predictive model that can forecast delays as early as possible, enabling airlines and airports to:
@@ -60,8 +63,11 @@ Real-Time Optimization: Adapt the model for live predictions in airport systems.
 
 📍 Phase 2 – Build predictive models and evaluate performance.
 
-## 📅 Future Work
-This is the initial phase of the project. Future steps include:
-Feature engineering to enhance predictive power.
+
+![](https://skillicons.dev/icons?i=py)
+
+
+![](https://skillicons.dev/icons?i=vscode)
+
 Developing and evaluating machine learning models for delay prediction.
 Optimizing the model for real-time predictions.
